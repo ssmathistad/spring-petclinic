@@ -421,7 +421,7 @@
 
     <distributionManagement>
         <repository>
-            <id>releases</id>
+            <id>maven-example</id>
             <url>http://localhost:8082/artifactory/maven-example/</url>
         </repository>
     </distributionManagement>
